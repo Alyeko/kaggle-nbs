@@ -1,2 +1,2 @@
 # kaggle-nbs
-My kaggle notebooks
+My (interesting) kaggle notebooks
